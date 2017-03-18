@@ -1,0 +1,11 @@
+
+
+百度网盘
+
+http://pan.baidu.com/s/1dFIcxep 密码: nc31
+
+http://pan.baidu.com/s/1sl2JFjR 密码：dzjv
+
+
+
+JetBrains日前发布了IntelliJ IDEA 2016，这个版本明显的改动了它的版本号(按照以往的标准应该叫IntelliJ IDEA 16)，他们采用了一种更加有意义的格式而不是用传统的语义化的版本（更加适合定义API的版本）。这样改动的主要目的在于，不去管大版本和小版本的区别，将所有的版本发布看成对上一个版本的平等的增量，这样也可以和其他产品的版本更好的统一。
